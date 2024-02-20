@@ -1,1 +1,1 @@
-# AzureFunctionsCRUD
+# DapperCRUD
